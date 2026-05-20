@@ -1,0 +1,16 @@
+POLICY: Decision-Making Authority Matrix
+ 
+1. Spend authority
+1.1 Up to £5,000: Senior Manager
+1.2 £5,000 to £25,000: Director, with documented business case
+1.3 £25,000 to £100,000: Partner, with written approval recorded in the engagement file
+1.4 Above £100,000: Engagement Partner plus Practice Lead, joint sign-off required
+ 
+2. Vendor selection
+2.1 Single-source procurement is only permitted where (a) sole supplier of required capability, or (b) below £10,000 total contract value.
+2.2 For all other vendor engagements, at least three quotes must be obtained.
+2.3 Any sole-source decision above £10,000 requires written justification and Partner approval.
+ 
+3. Client commitments
+3.1 Verbal commitments to clients regarding scope changes are not binding until confirmed in writing by the engagement Partner.
+3.2 Action owners assigned in client meetings must be confirmed via follow-up email within 24 hours.

@@ -1,0 +1,19 @@
+POLICY: Travel and Expense Reimbursement
+ 
+1. Flight bookings
+1.1 All domestic flights must be booked in economy class regardless of duration.
+1.2 International flights over 6 hours may be booked in premium economy with line-manager approval.
+1.3 Business class is only permitted for flights over 10 hours and requires Partner-level approval.
+1.4 Bookings should be made at least 14 days in advance where possible.
+ 
+2. Accommodation
+2.1 Maximum nightly rate: £200 in UK regional cities, £300 in London, £350 international.
+2.2 Anything above these caps requires written approval from the client engagement Partner.
+ 
+3. Meals
+3.1 Daily meal allowance: £50 UK, £70 international.
+3.2 Client entertainment must be pre-approved and logged separately.
+ 
+4. Approval workflow
+4.1 All travel must be booked through the corporate travel system.
+4.2 Reimbursements outside this system will not be processed without exceptional justification.

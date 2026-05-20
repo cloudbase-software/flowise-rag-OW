@@ -1,0 +1,18 @@
+POLICY: Third-Party Vendor Engagement
+ 
+1. Onboarding requirements
+1.1 All new vendors must complete a due diligence questionnaire before any contract is signed.
+1.2 Information security review is required for any vendor that will process client data.
+1.3 GDPR data processing addendum required for vendors handling EU personal data.
+ 
+2. Engagement timing
+2.1 Vendor engagements should not commence until contracts are fully executed.
+2.2 Work performed before contract execution is at the firm's own risk and is not reimbursable.
+ 
+3. Conflict of interest
+3.1 Any personal relationship (familial, financial, or material professional) between a staff member and a vendor representative must be declared.
+3.2 Failure to declare may result in disciplinary action.
+ 
+4. Performance review
+4.1 Vendors on engagements over £25,000 must be formally reviewed quarterly.
+4.2 Underperformance must be documented with the vendor's account manager.
