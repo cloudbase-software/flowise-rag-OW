@@ -566,14 +566,6 @@ Check (a) embeddings model is consistent — you cannot mix text-embedding-3-sma
 
 This flow asks each LLM node to return labelled prose sections (SUBJECT, DECISIONS, FLAGS, and so on) via the System message — there is no schema. If a node returns something unstructured, restate the required headings clearly in the System message and keep temperature low (0.1–0.2) for the extraction and policy-check nodes. If you do later need machine-addressable fields — for example to branch on a value with a Condition node — that is when to add the LLM node's **JSON Structured Output** parameter, which lets you define String, Number, Boolean, or Enum keys. It does not support nested arrays of objects, so use newline-separated text inside String keys for list-like data.
 
-### Gmail draft action fails with auth error
-
-OAuth tokens expire. Re-authenticate the credential in Flowise → Credentials. For corporate Google Workspace accounts, admins almost certainly block third-party OAuth — this is expected and is exactly the reason we built Option B.
-
-### n8n picks up emails but Flowise does not run
-
-Check n8n execution log for the HTTP response code. `401` = wrong API key. `404` = wrong flow ID. `400` = the form payload field names do not match the Start node form fields. Open the Flowise prediction API docs at `/api-docs` on your instance for the canonical request shape.
-
 # Finally: ask yourself -
 
 `Is this an agent or a workflow?`
